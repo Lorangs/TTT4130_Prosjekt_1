@@ -21,7 +21,8 @@ octave-workspace
 *.mlapp.bak
 
 # R2020b and newer Simulink cache
-*.slx.r????
+*.slx.r2024a
+*.slx.original
 
 # Profiler results
 profile_results/
