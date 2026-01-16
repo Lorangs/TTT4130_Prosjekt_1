@@ -1,0 +1,39 @@
+# MATLAB autosave files
+*.asv
+*.autosave
+
+# Simulink autosave and cache files
+*.slxc
+*.slx.autosave
+slprj/
+*.slxp
+
+# Code generation folders
+codegen/
+ert_main.c
+*.mex*
+*.p
+
+# MATLAB session files
+octave-workspace
+
+# MATLAB build artifacts
+*.mlapp.bak
+
+# R2020b and newer Simulink cache
+*.slx.r????
+
+# Profiler results
+profile_results/
+
+# Code coverage results
+coverage/
+
+# Log files
+*.log
+
+# Temporary files
+~$*
+*~
+.DS_Store
+Thumbs.db
